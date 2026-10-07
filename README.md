@@ -8,7 +8,7 @@
 - **NIM:** [H1D024131]
 - **Shift Awal:** [B]
 - **Shift Akhir:** [E]
-- **Link Video Demo/Penjelasan:** [YouTube/Google Drive](https://ISI-LINK-VIDEO)
+- **Link Video Demo/Penjelasan:** [YouTube](https://youtu.be/FZzqi3Tz4W0)
 
 ---
 
